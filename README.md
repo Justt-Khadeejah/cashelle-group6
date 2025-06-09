@@ -1,3 +1,5 @@
+Here is the Link to the Figma Design
+https://www.figma.com/proto/QKIJpDVIXWiRenW6Hk4I11/Wireframes?node-id=29-476&t=jddwfV2iu1KH4CWN-1
 # Cashelle 
 This is a Fintech app
 
