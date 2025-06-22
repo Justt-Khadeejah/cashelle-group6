@@ -16,3 +16,6 @@ This is a Fintech app
 3. SignUp Screen
 
 ![signup Screen](https://github.com/user-attachments/assets/4f0e29ff-f604-4d1e-b23a-22daf24314b4)
+UML Diagrams 
+<img width="523" alt="use case Diagram Cashelle" src="https://github.com/user-attachments/assets/b6c43ad6-461b-4175-ab5d-b75bc233380f" />
+<img width="491" alt="Cashelle sequence diagram" src="https://github.com/user-attachments/assets/084020c6-dc75-48ff-bd58-4a7967f26773" />
